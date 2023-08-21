@@ -1,0 +1,12 @@
+{
+    "name": "cookbook",
+    "version": "1.0.0",
+    "description": "Your app description",
+    "main": "Homepage.js",
+    "scripts": {
+        "start": "node Homepage.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
